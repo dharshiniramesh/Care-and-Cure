@@ -6,7 +6,7 @@ Features :
 
 	- Paitients from remote areas can fix the appointment through this website.
  	- All the doctors can go throudh the website for daily updates.
-	- Reducing costs through decreased paperwork, improved safety, reduced duplication of testing.
+	- Reducing costs through decreased paperwork,improved safety,reduced duplication of testing.
         - Reduces scope of error.
         - It is faster than manual system.
 
@@ -85,11 +85,17 @@ These are the scripting languages and environment used in this module
 
 These are the main goals of this module
 
-	-   In this module user (doctors) will have to give their correct user name, department and password to get login into their respective accounts.
+	-   In this module doctors will have to give their user name,department and password. 
+       
+        -   To get login into their respective accounts.
 	
-	-   In order to check the correctness of the login details we have used a  servlet page which fetch the details from the database.
+	-   In order to check the correctness of the login details.
+	
+	-   we have used a servlet page which fetch the details from the database.
 
-        -   After the correct login the users get into their respective accounts where they will see the corresponding 3 html pages.
+        -   After the correct login the users get into their respective accounts.
+	
+	-   where they will see the corresponding 3 html pages.
 
 
 These are the scripting languages and environment used in this module 
