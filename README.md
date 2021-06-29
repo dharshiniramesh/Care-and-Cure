@@ -4,9 +4,9 @@ The main objective of this mini project is to provide a user friendly website fo
 
 Features :
 
-	- Paitients from remote areas can fix the appointment through this website without visiting the hospital.
+	- Paitients from remote areas can fix the appointment through this website.
  	- All the doctors can go throudh the website for daily updates.
-	- Reducing costs through decreased paperwork, improved safety, reduced duplication of testing, and improved health.
+	- Reducing costs through decreased paperwork, improved safety, reduced duplication of testing.
         - Reduces scope of error.
         - It is faster than manual system.
 
@@ -32,7 +32,7 @@ Software Requirements :
 	
 	- Scripting language	:	HTML, JavaScript, CSS
 	
-	- Database		:	MY SQL
+	- Database		:	MYSQL
 
 ## How it works
 
