@@ -7,8 +7,7 @@ Features :
 	- Paitients from remote areas can fix the appointment through this website.
  	- All the doctors can go throudh the website for daily updates.
 	- Reducing costs through decreased paperwork,improved safety,reduced duplication of testing.
-        - Reduces scope of error.
-        - It is faster than manual system.
+       
 
 ## Requirements 
 
