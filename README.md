@@ -87,7 +87,7 @@ These are the main goals of this module
 
 	-   In this module doctors will have to give their user name,department and password. 
        
-        -  To get login into their respective accounts.
+        -    To get login into their respective accounts.
 	
 	-   In order to check the correctness of the login details.
 	
