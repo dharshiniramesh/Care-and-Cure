@@ -41,7 +41,7 @@ These are the main goals of this module
 
 	- All major info about the user will be received. 
 	
-	- Roll number will be the unique id for the user.
+	- ID number will be the unique id for the user.
 
 These are the scripting languages and environment used in this module 
 
