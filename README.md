@@ -86,15 +86,11 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module
 
 	-   In this module doctors will have to give their user name,department and password. 
-       
-        -    To get login into their respective accounts.
-	
+      
 	-   In order to check the correctness of the login details.
 	
 	-   we have used a servlet page which fetch the details from the database.
 
-        -   After the correct login the users get into their respective accounts.
-	
 	-   where they will see the corresponding 3 html pages.
 
 
